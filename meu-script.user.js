@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Meu Script Tampermonkey
 // @namespace    http://suaempresa.com/
-// @version      1.0
-// @description  Script centralizado via SharePoint
+// @version      1.1
+// @description  Script atualizado via GitHub
 // @author       Você
-// @match        *://*/*
+// @match        https://www.google.com/*
 // @grant        none
 // ==/UserScript==
 
-console.log("Script rodando com sucesso!");
+alert("🚀 Atualização 1.1 funcionando!");
