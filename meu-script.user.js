@@ -6,6 +6,8 @@
 // @author       Você
 // @match        https://www.google.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/under-commits/Script-centralizado/main/meu-script.user.js
+// @downloadURL  https://raw.githubusercontent.com/under-commits/Script-centralizado/main/meu-script.user.js
 // ==/UserScript==
 
-alert("🚀 @@@@@");
+alert("🚀 Atualização 1.1 funcionando!");
