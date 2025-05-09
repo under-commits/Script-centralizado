@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Meu Script Tampermonkey
 // @namespace    http://suaempresa.com/
-// @version      1.1
+// @version      1.2
 // @description  Script atualizado via GitHub
 // @author       Você
 // @match        https://www.google.com/*
@@ -10,4 +10,4 @@
 // @downloadURL  https://raw.githubusercontent.com/under-commits/Script-centralizado/main/meu-script.user.js
 // ==/UserScript==
 
-alert("🚀 Agora foi ");
+alert("🚀 @@@@@@@@@@@@@@@");
