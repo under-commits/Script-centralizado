@@ -8,4 +8,4 @@
 // @grant        none
 // ==/UserScript==
 
-alert("🚀 Atualização 1.1 funcionando!");
+alert("🚀 @@@@@");
