@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Meu Script Tampermonkey
 // @namespace    http://suaempresa.com/
-// @version      1.4
+// @version      1.5
 // @description  Script atualizado via GitHub
 // @author       Você
 // @match        https://www.google.com/*
