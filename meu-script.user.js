@@ -10,4 +10,4 @@
 // @downloadURL  https://raw.githubusercontent.com/under-commits/Script-centralizado/main/meu-script.user.js
 // ==/UserScript==
 
-alert("🚀 Foiiiiiiiiiiiiiiiiiii");
+alert("🚀 teste version 1.5");
