@@ -10,4 +10,4 @@
 // @downloadURL  https://raw.githubusercontent.com/under-commits/Script-centralizado/main/meu-script.user.js
 // ==/UserScript==
 
-alert("🚀 133331");
+alert("🚀 123");
